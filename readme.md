@@ -22,7 +22,7 @@ Before running this project, ensure you have the following installed:
 1. **Clone the repository**
    ```bash
    git clone https://github.com/CyberLeafy/school_management_system_docker.git
-   cd school_project_docker
+   cd school_management_system_docker
    ```
 
 2. **Start the services**
