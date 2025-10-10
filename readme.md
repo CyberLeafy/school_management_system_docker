@@ -174,4 +174,18 @@ If you encounter any issues:
 
 ---
 
+
 **Note**: This is a development setup. For production deployment, additional security measures and configuration optimizations should be implemented.
+
+
+## 🧑‍💼 Author
+
+- [@CyberLeafy](https://www.github.com/cyberleafy)
+- Aditya Jaiswal
+
+---
+
+<div align="center">
+Made with ❤️ for Jawahar Navodaya Vidyalaya (Gopalganj)
+</div>
+
