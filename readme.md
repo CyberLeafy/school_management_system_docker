@@ -2,6 +2,9 @@
 
 A containerized school management application built with Flask, PostgreSQL, and Cloudflare tunnel for secure access.
 
+> Live Preview ➟
+> [Show Preview](https://adityajaiswal7525.pythonanywhere.com/)
+
 ## 🏗️ Architecture
 
 This project consists of three main services:
